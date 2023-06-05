@@ -1,5 +1,4 @@
-# HDLSHC
-HDLSHC
+# HDLSHC,, code to compress data using the high-dimensional lattice symbols and the Huffman coding algorithm // HDLSHC
 \\
 
 #include <iostream>
